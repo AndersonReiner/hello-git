@@ -5,3 +5,5 @@
 - git add
 - git commit
 - git log
+- git diff
+- git restore

@@ -8,3 +8,7 @@
 - git diff
 - git restore
 - git commit --amend -m
+
+# Repositório remoto.
+
+- adicionado repositório.
